@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HiAditya-Mishra&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiAditya-Mishra&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiAditya-Mishra&theme=react-dark">
 </p>
 
 ---
