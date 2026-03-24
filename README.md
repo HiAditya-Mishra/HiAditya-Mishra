@@ -51,7 +51,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🌐 **CampusSphere** → Connecting students, opportunities & growth   
+- 🌐 **Spheera** → Connecting students, opportunities & growth   
 
 ---
 
